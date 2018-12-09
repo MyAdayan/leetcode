@@ -9,6 +9,5 @@ public class ToLowerCaseTest {
         ToLowerCase test_class = new ToLowerCase();
         String string = "AbCDe";
         System.out.println(test_class.toLowerCase(string));
-
     }
 }
